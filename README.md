@@ -27,6 +27,6 @@ Reading group for Sustainable Machine Learning. We discuss papers every other we
 
 ### Meeting-1: 15/02/2023
 
-* [Dustin Wright](https://scholar.google.com/citations?user=OGk5UnYAAAAJ&hl=en&oi=ao) presented _An Information-Theoretic Justification for Model Pruning (Isik et al, 2022)_
+* [Dustin Wright](http://dustinbwright.com/) presented _An Information-Theoretic Justification for Model Pruning (Isik et al, 2022)_
 * [Paper](https://arxiv.org/abs/2102.08329)
 
