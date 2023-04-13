@@ -12,12 +12,12 @@ Reading group for Sustainable Machine Learning. We discuss papers every other we
 ## Past meetings
 
 ### Meeting-5: 12/04/2023
-* Emil Jørgensen Njor will present _Data Aware Neural Architecture Search (Njor et al. 2023)_
+* [Emil Jørgensen Njor](https://scholar.google.com/citations?user=1MM7E9QAAAAJ&hl=en&oi=ao) presented _Data Aware Neural Architecture Search (Njor et al. 2023)_
 * [Paper](https://www2.compute.dtu.dk/~xefa/files/conf/2023-tinyml-datanas.pdf)
 
 
 ### Meeting-4: 29/03/2023
-* [Julian Schön](https://scholar.google.com/citations?hl=en&user=YqdxR9UAAAAJ) will present _Learning from Randomly Initialized Neural Network Features (Amid et al. 2022)_
+* [Julian Schön](https://scholar.google.com/citations?hl=en&user=YqdxR9UAAAAJ) presented _Learning from Randomly Initialized Neural Network Features (Amid et al. 2022)_
 * [Paper](https://arxiv.org/abs/2202.06438)
 
 
