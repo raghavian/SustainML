@@ -5,7 +5,7 @@ Reading group for Sustainable Machine Learning. We discuss papers every other we
 ## Upcoming meetings
 
 ### Meeting-6: 26/04/2023
-* Sebastian Hammer Eliassen will present _EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression (Liu et al. 2022)_
+* [Sebastian Hammer Eliassen](https://github.com/sebeliassen/) will present _EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression (Liu et al. 2022)_
 * [Paper](https://openreview.net/forum?id=vkaMaq95_rX)
 
 ---- 
