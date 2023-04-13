@@ -1,4 +1,4 @@
-# SustainML
+# Sustainable Machine Learning Reading Group
 Reading group for Sustainable Machine Learning. We discuss papers every other week, usually on Wednesdays at 3.30PM CET. If interested reach out to Dustin or Raghav. 
 
 ---
