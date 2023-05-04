@@ -4,12 +4,16 @@ Reading group for Sustainable Machine Learning. We discuss papers every other we
 ---
 ## Upcoming meetings
 
-### Meeting-6: 26/04/2023
-* [Sebastian Hammer Eliassen](https://github.com/sebeliassen/) will present _EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression (Liu et al. 2022)_
-* [Paper](https://openreview.net/forum?id=vkaMaq95_rX)
+### Meeting-7: 10/03/2023
+* [Daniel Geißler](https://www.linkedin.com/in/daniel-gei%C3%9Fler-68a5bb201/?originalSubdomain=de) will present _Dodging the Sparse Double Descent (Quétu and Tartaglione 2023)_
+* [Paper](https://arxiv.org/pdf/2303.01213.pdf)
 
 ---- 
 ## Past meetings
+
+### Meeting-6: 26/04/2023
+* [Sebastian Hammer Eliassen](https://github.com/sebeliassen/) will present _EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression (Liu et al. 2022)_
+* [Paper](https://openreview.net/forum?id=vkaMaq95_rX)
 
 ### Meeting-5: 12/04/2023
 * [Emil Jørgensen Njor](https://scholar.google.com/citations?user=1MM7E9QAAAAJ&hl=en&oi=ao) presented _Data Aware Neural Architecture Search (Njor et al. 2023)_
