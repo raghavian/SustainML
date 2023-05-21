@@ -5,11 +5,15 @@ Reading group for Sustainable Machine Learning. We discuss papers every other we
 ## Upcoming meetings
 
 ### Meeting-7: 10/03/2023
-* [Daniel Geißler](https://www.linkedin.com/in/daniel-gei%C3%9Fler-68a5bb201/?originalSubdomain=de) will present _Dodging the Sparse Double Descent (Quétu and Tartaglione 2023)_
-* [Paper](https://arxiv.org/pdf/2303.01213.pdf)
+* [Eya Ben Chaaben](https://www.lisn.upsaclay.fr/members/ben-chaaben-eya/) will present _EnergyVis: Interactively tracking and exploring energy consumption for ML models_ (Shaikh et al. 2021)
+* [Paper](https://dl.acm.org/doi/abs/10.1145/3411763.3451780)
 
 ---- 
 ## Past meetings
+
+### Meeting-7: 10/03/2023
+* [Daniel Geißler](https://www.linkedin.com/in/daniel-gei%C3%9Fler-68a5bb201/?originalSubdomain=de) presented _Dodging the Sparse Double Descent (Quétu and Tartaglione 2023)_
+* [Paper](https://arxiv.org/pdf/2303.01213.pdf)
 
 ### Meeting-6: 26/04/2023
 * [Sebastian Hammer Eliassen](https://github.com/sebeliassen/) will present _EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression (Liu et al. 2022)_
