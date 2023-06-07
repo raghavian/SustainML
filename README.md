@@ -4,12 +4,17 @@ Reading group for Sustainable Machine Learning. We discuss papers every other we
 ---
 ## Upcoming meetings
 
-### Meeting-9: 07/06/2023
-* [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) will present _Once-for-All: Train One Network and Specialize it for Efficient Deployment_ (Cai et al. 2020)
-* [Paper](https://arxiv.org/abs/1908.09791)
+### Meeting-10: 21/06/2023
+* [Tong Chen](https://scholar.google.com/citations?user=KArfuYIAAAAJ&hl=fr&oi=sra) will be presenting. 
+* Paper will be updated soon
 
 ---- 
 ## Past meetings
+
+### Meeting-9: 07/06/2023
+* [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) presented _Once-for-All: Train One Network and Specialize it for Efficient Deployment_ (Cai et al. 2020)
+* [Paper](https://arxiv.org/abs/1908.09791)
+
 
 ### Meeting-8: 24/05/2023
 * [Eya Ben Chaaben](https://www.lisn.upsaclay.fr/members/ben-chaaben-eya/) presented _EnergyVis: Interactively tracking and exploring energy consumption for ML models_ (Shaikh et al. 2021)
