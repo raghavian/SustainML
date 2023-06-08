@@ -5,8 +5,8 @@ Reading group for Sustainable Machine Learning. We discuss papers every other we
 ## Upcoming meetings
 
 ### Meeting-10: 21/06/2023
-* [Tong Chen](https://scholar.google.com/citations?user=KArfuYIAAAAJ&hl=fr&oi=sra) will be presenting. 
-* Paper will be updated soon
+* [Tong Chen](https://scholar.google.com/citations?user=KArfuYIAAAAJ&hl=fr&oi=sra) will be presenting on _Sparse Polynomial Optimization and Its Application to Deep Neural Network_. 
+* [Paper](https://proceedings.neurips.cc/paper/2020/hash/dea9ddb25cbf2352cf4dec30222a02a5-Abstract.html)
 
 ---- 
 ## Past meetings
