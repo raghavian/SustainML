@@ -4,10 +4,21 @@ Reading group for Sustainable Machine Learning. We discuss papers every other we
 ---
 ## Upcoming meetings
 
-We are now on summer break. First meeting after summer will be on 16/08/2023
+### Meeting 12: 11/10/2023
+* [Dustin Wright](http://dustinbwright.com/) will be presenting.
+
+### Meeting-13: 25/10/2023
+* [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) will be presenting. 
+
+### Meeting 14: 08/11/2023
+* [Daniel Geißler](https://www.linkedin.com/in/daniel-gei%C3%9Fler-68a5bb201/?originalSubdomain=de) will be presenting.
 
 ---- 
 ## Past meetings
+
+### Meeting-11: 27/09/2023
+* [Raghavendra Selvan](https://raghavian.github.io/) presented _Pruning vs Quantization: Which is Better?_ (Kuzmin et al. 2023). 
+* [Paper](https://arxiv.org/abs/2307.02973)
 
 ### Meeting-10: 21/06/2023
 * [Tong Chen](https://scholar.google.com/citations?user=KArfuYIAAAAJ&hl=fr&oi=sra) presented _Sparse Polynomial Optimization and Its Application to Deep Neural Network_. 
@@ -21,7 +32,6 @@ We are now on summer break. First meeting after summer will be on 16/08/2023
 ### Meeting-8: 24/05/2023
 * [Eya Ben Chaaben](https://www.lisn.upsaclay.fr/members/ben-chaaben-eya/) presented _EnergyVis: Interactively tracking and exploring energy consumption for ML models_ (Shaikh et al. 2021)
 * [Paper](https://dl.acm.org/doi/abs/10.1145/3411763.3451780)
-
 
 
 ### Meeting-7: 10/05/2023
