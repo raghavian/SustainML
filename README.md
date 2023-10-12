@@ -4,9 +4,6 @@ Reading group for Sustainable Machine Learning. We discuss papers every other we
 ---
 ## Upcoming meetings
 
-### Meeting 12: 11/10/2023
-* [Dustin Wright](http://dustinbwright.com/) will be presenting _Language Modeling is Compression_ (Delétang et al. 2023).
-
 ### Meeting-13: 25/10/2023
 * [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) will be presenting. 
 
@@ -15,6 +12,10 @@ Reading group for Sustainable Machine Learning. We discuss papers every other we
 
 ---- 
 ## Past meetings
+
+### Meeting 12: 11/10/2023
+* [Dustin Wright](http://dustinbwright.com/) will be presenting _Language Modeling is Compression_ (Delétang et al. 2023).
+* [Paper](https://arxiv.org/abs/2309.10668)
 
 ### Meeting-11: 27/09/2023
 * [Raghavendra Selvan](https://raghavian.github.io/) presented _Pruning vs Quantization: Which is Better?_ (Kuzmin et al. 2023). 
