@@ -79,4 +79,4 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 The reading group is part of the dissemination activities related to two EU projects Raghav is involved with. European Union’s Horizon Europe Research and Innovation programme under grant agreements No. 101070284 (EnrichMyData) and No. 101070408 (SustainML). 
 
 ## Contact
-For more details about the project, reading group, or for opportunities reach out to [Raghavendra Selvan](raghav@di.ku.dk)
+For more details about the project, reading group, or for opportunities reach out to Raghavendra Selvan: [raghav@di.ku.dk](mailto:raghav@di.ku.dk). 
