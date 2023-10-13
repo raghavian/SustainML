@@ -14,7 +14,7 @@ Reading group for Sustainable Machine Learning. We discuss papers every other we
 ## Past meetings
 
 ### Meeting 12: 11/10/2023
-* [Dustin Wright](http://dustinbwright.com/) will be presenting _Language Modeling is Compression_ (Delétang et al. 2023).
+* [Dustin Wright](http://dustinbwright.com/) will be presented _Language Modeling is Compression_ (Delétang et al. 2023).
 * [Paper](https://arxiv.org/abs/2309.10668)
 
 ### Meeting-11: 27/09/2023
@@ -68,3 +68,6 @@ Reading group for Sustainable Machine Learning. We discuss papers every other we
 * [Dustin Wright](http://dustinbwright.com/) presented _An Information-Theoretic Justification for Model Pruning (Isik et al, 2022)_
 * [Paper](https://arxiv.org/abs/2102.08329)
 
+## About
+
+The reading group is part of the dissemination activities related to two EU projects Raghav is involved with. European Union’s Horizon Europe Research and Innovation programme under grant agreements No. 101070284 (EnrichMyData) and No. 101070408 (SustainML). 
