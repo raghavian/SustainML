@@ -1,8 +1,14 @@
 # Sustainable Machine Learning Reading Group
 Reading group on Sustainable Machine Learning and ICT. We discuss papers every other week, usually on Wednesdays at 3.30PM CET. If interested reach out to Dustin or Raghav. 
 
+## Table of Contents
+1. [Upcoming Meetings](#upcoming-meetings)
+2. [Past Meetings](#past-meetings)
+3. [About](#about)
+4. [Contact](#contact)
+
 ---
-## Upcoming meetings
+## Upcoming Meetings
 
 ### Meeting-13: 25/10/2023
 * [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) will be presenting. 
@@ -11,7 +17,7 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 * [Daniel Geißler](https://www.linkedin.com/in/daniel-gei%C3%9Fler-68a5bb201/?originalSubdomain=de) will be presenting.
 
 ---- 
-## Past meetings
+## Past Meetings
 
 ### Meeting 12: 11/10/2023
 * [Dustin Wright](http://dustinbwright.com/) will be presented _Language Modeling is Compression_ (Delétang et al. 2023).
@@ -71,3 +77,6 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ## About
 
 The reading group is part of the dissemination activities related to two EU projects Raghav is involved with. European Union’s Horizon Europe Research and Innovation programme under grant agreements No. 101070284 (EnrichMyData) and No. 101070408 (SustainML). 
+
+## Contact
+For more details about the project, reading group, or for opportunities reach out to [Raghavendra Selvan](raghav@di.ku.dk)
