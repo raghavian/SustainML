@@ -10,14 +10,23 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting-13: 25/10/2023
-* [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) will be presenting. 
+### Meeting-15: 22/11/2023
+* [Eya Ben Chaaben](https://www.lisn.upsaclay.fr/members/ben-chaaben-eya/) will be presenting. 
 
-### Meeting 14: 08/11/2023
-* [Daniel Geißler](https://www.linkedin.com/in/daniel-gei%C3%9Fler-68a5bb201/?originalSubdomain=de) will be presenting.
+### Meeting 16: 06/12/2023
+* [Sebastian Hammer Eliassen](https://github.com/sebeliassen/) will be presenting.
 
 ---- 
 ## Past Meetings
+
+### Meeting-14: 10/05/2023
+* [Daniel Geißler](https://www.linkedin.com/in/daniel-gei%C3%9Fler-68a5bb201/?originalSubdomain=de) presented _Read the Signs: Towards Invariance to Gradient Descent's Hyperparameter Initialization_ (Wadi et al. 2023)
+* [Paper](https://arxiv.org/abs/2301.10133)
+
+### Meeting-13: 25/07/2023
+* [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) presented _Neural Architecture Search without Training_ (Mellor et al. 2020)
+* [Paper](https://arxiv.org/abs/2006.04647)
+
 
 ### Meeting 12: 11/10/2023
 * [Dustin Wright](http://dustinbwright.com/) will be presented _Language Modeling is Compression_ (Delétang et al. 2023).
