@@ -10,14 +10,17 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting-15: 22/11/2023
-* [Eya Ben Chaaben](https://www.lisn.upsaclay.fr/members/ben-chaaben-eya/) will be presenting. 
-
-### Meeting 16: 06/12/2023
-* [Sebastian Hammer Eliassen](https://github.com/sebeliassen/) will be presenting.
-
+We are on a break due to the holiday season. Next meeting will be on 17/01/2024.
 ---- 
 ## Past Meetings
+
+### Meeting 16: 06/12/2023
+* [Sebastian Hammer Eliassen](https://github.com/sebeliassen/) presented _BitGNN: Unleashing the Performance Potential of Binary Graph Neural Networks on GPUs_ (Chen et al. 2023)
+* [Paper](https://arxiv.org/abs/2305.02522)
+
+### Meeting-15: 22/11/2023
+* [Eya Ben Chaaben](https://www.lisn.upsaclay.fr/members/ben-chaaben-eya/) presented _Towards rapid interactive machine learning: evaluating tradeoffs of classification without representation_. (Arendt et al. 2019)
+* [Paper](https://dl.acm.org/doi/10.1145/3301275.3302280)
 
 ### Meeting-14: 10/05/2023
 * [Daniel Geißler](https://www.linkedin.com/in/daniel-gei%C3%9Fler-68a5bb201/?originalSubdomain=de) presented _Read the Signs: Towards Invariance to Gradient Descent's Hyperparameter Initialization_ (Wadi et al. 2023)
